@@ -7,7 +7,7 @@ Domain: Python Programming
 Duration: June to July 2025                                                                    
 
 
-🤖 Project Overview: AI Chatbot with NLP using Python                                
+## 🤖 Project Overview: AI Chatbot with NLP using Python                                
 
 🎯 Objective:                                                                
 To build a basic AI chatbot using Natural Language Processing (NLP) libraries such as NLTK or spaCy, capable of understanding user inputs and responding to simple queries intelligently.
